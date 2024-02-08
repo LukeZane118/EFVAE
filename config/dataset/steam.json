@@ -1,0 +1,14 @@
+{
+    "data_path": "./dataset/steam/steam-200k.csv",
+    "proc_path": "./dataset/steam/preproc",
+    "separator": ",",
+    "u_min": 5,
+    "i_min": 0,
+    "split_type": "vertical",
+    "sort_by": null,
+    "seed": 98765,
+    "shuffle": true,
+    "heldout": 1000,
+    "test_prop": 0.2,
+    "topn": 1
+}

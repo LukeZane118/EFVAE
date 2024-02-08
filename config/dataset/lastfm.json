@@ -1,0 +1,15 @@
+{
+    "data_path": "./dataset/lastfm/user_artists.csv",
+    "proc_path": "./dataset/lastfm/preproc",
+    "header": 0,
+    "separator": "\t",
+    "u_min": 5,
+    "i_min": 0,
+    "split_type": "vertical",
+    "sort_by": null,
+    "seed": 98765,
+    "shuffle": true,
+    "heldout": 200,
+    "test_prop": 0.2,
+    "topn": 1
+}
