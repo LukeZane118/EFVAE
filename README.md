@@ -1,7 +1,7 @@
 ## [EFVAE: Efficient Federated Variational Autoencoders For Collaborative Filtering [PDF]](https://dl.acm.org/doi/10.1145/3627673.3679818)
 
 ## 1. Overview
-This repository is an PyTorch Implementation for "[EFVAE: Efficient Federated Variational Autoencoders For Collaborative Filtering (CIKM2024)](https://dl.acm.org/doi/10.1145/3627673.3679818)".
+This repository is a PyTorch Implementation for "[EFVAE: Efficient Federated Variational Autoencoders For Collaborative Filtering (CIKM2024)](https://dl.acm.org/doi/10.1145/3627673.3679818)".
 
 **Authors**: Lu Zhang, Qian Rong, Xuanang Ding, Guohui Li, and Ling Yuan \
 **Codes**: https://github.com/LukeZane118/EFVAE
